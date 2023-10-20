@@ -1,5 +1,5 @@
 <div align="center">
-  <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"></a></p>
+  <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47j8efirj90ldpbllsfkpia4op113pa8l12lj8e1y4&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
   <a href="mailto:muhtasimnoor@gmail.com">
     <img src="https://img.shields.io/badge/Email-87DE4E" style="width: 80px; height: 40px;"/>
   </a>
