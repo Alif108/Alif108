@@ -1,15 +1,15 @@
 <div align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/Email-87DE4E" style="width: 100px; height: 40px;"/>
+  <a href="mailto:muhtasimnoor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-87DE4E" style="width: 80px; height: 40px;"/>
   </a>
   <a href="https://alif108.github.io/">
-    <img src="https://img.shields.io/badge/Website-3EDAE6" style="width: 100px; height: 40px;"/>
+    <img src="https://img.shields.io/badge/Website-3EDAE6" style="width: 120px; height: 40px;"/>
   </a>
   <a href="https://www.linkedin.com/in/muhtasim-alif">
-    <img src="https://img.shields.io/badge/LinkedIn-86888A" style="width: 100px; height: 40px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-86888A" style="width: 120px; height: 40px;"/>
   </a>
   <a href="https://www.facebook.com/muhahahahahahahahahahahahaa?mibextid=ZbWKwL">
-    <img src="https://img.shields.io/badge/Facebook-3B5998" style="width: 100px; height: 40px;"/>
+    <img src="https://img.shields.io/badge/Facebook-3B5998" style="width: 120px; height: 40px;"/>
   </a>
 </div>
 
