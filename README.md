@@ -1,5 +1,8 @@
+<div style="text-align: center;">
+  <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47j8efirj90ldpbllsfkpia4op113pa8l12lj8e1y4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="200" />
+</div>
+
 <div align="center">
-  <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47j8efirj90ldpbllsfkpia4op113pa8l12lj8e1y4&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
   <a href="mailto:muhtasimnoor@gmail.com">
     <img src="https://img.shields.io/badge/Email-87DE4E" style="width: 80px; height: 40px;"/>
   </a>
