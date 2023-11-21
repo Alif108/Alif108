@@ -24,7 +24,7 @@
 Hi there! 👋<br/>
 I am **Alif**. I'm a CSE graduate from <a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology</a>, and currently working as a Lecturer in the <a href="https://cse.uap-bd.edu/faculty/faculty_details/56">University of Asia Pacific</a>.
 
-- 📚 My research interests revolve around ```Data Mining```, ```Data Science```, and ```Machine Learning```. I'm genuinely intrigued by how data can reveal significant patterns and stimulate innovation across various domains.
+- 📚 My research interests revolve around ```Data Mining```, ```Machine Learning```, and ```Human Computer Interaction```. I'm genuinely intrigued by how data can reveal significant patterns and stimulate innovation across various domains.
 - 🎸Apart from my academics, I am really into music. I sometimes play the strings.
 
 I am open to any collaborative research work if you are interested. Let's share our knowledge and skills to foster progress and innovation!
