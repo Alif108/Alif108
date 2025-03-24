@@ -25,7 +25,7 @@ Hi there! 👋<br/>
 I am **Alif**, a PhD student in Computer Science (CS) in <a href="https://www.ucf.edu/">University of Central Florida</a>. I did my undergrad in Computer Science and Engineering (CSE) from <a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology</a>. I formerly worked as a Lecturer in CS in the <a href="https://cse.uap-bd.edu/faculty/faculty_details/56">University of Asia Pacific</a>.
 
 - 📚 My research interests are in ```Machine Learning``` and ```Data Mining```. I like to develop machine learning models to solve tasks. Currently working in the ```Computational Biology``` domain, playing with biological data. 
-- 🎸Apart from my academics, I am really into music. I sometimes play the strings.
+- 🎸Apart from my academics, I sometimes play the strings.
 
 I am open to any collaborative research work if you are interested. Let's share our knowledge and skills to foster progress and innovation!
 
